@@ -16,27 +16,27 @@
 <ul list-style-type="circle">
   <li>Home Screen</li>
 </ul>
-<img src="../develop/img/home.png" style="max-width: 100%;">
+<img src="../main/src/img/home.png" style="max-width: 100%;">
 <ul list-style-type="circle">
   <li>Purchase Screen</li>
 </ul>
-<img src="../develop/img/purchase.png" style="max-width: 100%;">
+<img src="../main/src/img/purchase.png" style="max-width: 100%;">
 <ul list-style-type="circle">
   <li>Product Manage Screen</li>
 </ul>
-<img src="../develop/img/product_mng.png" style="max-width: 100%;">
+<img src="../main/src/img/product_mng.png" style="max-width: 100%;">
 <ul list-style-type="circle">
   <li>Warehouse Manage Screen</li>
 </ul>
-<img src="../develop/img/warehouse.png" style="max-width: 100%;">
+<img src="../main/src/img/warehouse.png" style="max-width: 100%;">
 <ul list-style-type="circle">
   <li>Administration Screen</li>
 </ul>
-<img src="../develop/img/admin.png" style="max-width: 100%;">
+<img src="../main/src/img/admin.png" style="max-width: 100%;">
 <ul list-style-type="circle">
   <li>Revenue Screen</li>
 </ul>
-<img src="../develop/img/revenue.png" style="max-width: 100%;">
+<img src="../main/src/img/revenue.png" style="max-width: 100%;">
 
 <h2>Installation</h2>
 <h3>1.Install XAMPP and Java SE Runtime Environment</h3>
@@ -56,7 +56,7 @@
 <p>3.1 Install NetBeans IDE through this link: </p>
 <p>https://netbeans.apache.org/download/index.html</p>
 <p>3.2 Open NetBeans and import project</p>
-<img src="../develop/img/import_project.png" style="max-width: 100%;">
+<img src="../main/src/img/import_project.png" style="max-width: 100%;">
 
 <h3>4. Run project</h3>
 <p>Open file "Home.java" in "src/foodtsk/Home.java" and press Shift + F6 to run project</p>
